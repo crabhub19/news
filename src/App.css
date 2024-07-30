@@ -1,0 +1,6 @@
+.display-none{
+  @apply hidden;
+}
+section{
+  @apply pt-24 pb-10;
+}

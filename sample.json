@@ -1,0 +1,1302 @@
+ articles = [
+{
+"source": {
+"id": "al-jazeera-english",
+"name": "Al Jazeera English"
+},
+"author": "Al Jazeera",
+"title": "Trump shot at Pennsylvania rally in assassination attempt: What to know",
+"description": "Trump,78, was shot in the ear, in Butler County that left the Republican presidential candidate wounded.",
+"url": "https://www.aljazeera.com/news/2024/7/14/trump-shot-at-pennsylvania-rally-in-assassination-attempt-what-to-know",
+"urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/07/2024-07-14T003343Z_1915397062_RC2MU8A776NC_RTRMADP_3_USA-ELECTION-TRUMP-1720922372.jpg?resize=1920%2C1440",
+"publishedAt": "2024-07-14T06:26:00Z",
+"content": "Former President Donald Trump, 78, was injured in the ear in a shooting at a campaign rally in Pennsylvania on Saturday.\r\nHere is what we know so far:\r\nWhat happened at Trumps rally and when?\r\n<ul><l… [+7782 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "ETF Daily News"
+},
+"author": "MarketBeat News",
+"title": "Citigroup Increases Tesla (NASDAQ:TSLA) Price Target to $274.00",
+"description": "Tesla (NASDAQ:TSLA – Get Free Report) had its target price increased by Citigroup from $182.00 to $274.00 in a research note issued to investors on Friday, MarketBeat reports. The brokerage currently has a “neutral” rating on the electric vehicle producer’s s…",
+"url": "https://www.etfdailynews.com/2024/07/14/citigroup-increases-tesla-nasdaqtsla-price-target-to-274-00/",
+"urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/tesla-inc-logo-1200x675.png?v=20221020135629&w=240&h=240&zc=2",
+"publishedAt": "2024-07-14T06:12:43Z",
+"content": "Tesla (NASDAQ:TSLA – Get Free Report) had its target price increased by Citigroup from $182.00 to $274.00 in a research note issued to investors on Friday, MarketBeat reports. The brokerage currently… [+5325 chars]"
+},
+{
+"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Katherine Tangalakis-Lippert",
+"title": "Secret Service comes under intense scrutiny for 'major failure' following shooting at Trump rally",
+"description": "The US Secret Service quickly came under scrutiny for failing to prevent a fatal shooting at former President Donald Trump's rally on Saturday.",
+"url": "https://www.businessinsider.com/secret-service-scrutiny-shooting-donald-trump-pennsylvania-rally-2024-7",
+"urlToImage": "https://i.insider.com/669330418893442a5156697c?width=1200&format=jpeg",
+"publishedAt": "2024-07-14T05:32:14Z",
+"content": "Republican presidential candidate former President Donald Trump is helped off the stage at a campaign event in Butler, Pa., Saturday.AP Photo/Gene J. Puskar\r\n<ul><li>Donald Trump said he was shot in … [+6458 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "ft.com",
+"title": "Nvidia could reach $50tn market cap in a decade, says top tech investor",
+"description": "Early Tesla and Amazon backer James Anderson sees chipmaker’s potential scale as ‘way higher than I’ve ever seen’",
+"url": "https://biztoc.com/x/7b7cfbe536e2e757",
+"urlToImage": "https://biztoc.com/cdn/7b7cfbe536e2e757_s.webp",
+"publishedAt": "2024-07-14T05:27:52Z",
+"content": "Early Tesla and Amazon backer James Anderson sees chipmakers potential scale as way higher than Ive ever seen\r\nThis story appeared on ft.com, 2024-07-14."
+},
+{
+"source": {
+"id": null,
+"name": "ETF Daily News"
+},
+"author": "MarketBeat News",
+"title": "Tesla (NASDAQ:TSLA) Stock Price Up 2.3% Following Analyst Upgrade",
+"description": "Shares of Tesla, Inc. (NASDAQ:TSLA – Get Free Report) rose 2.3% during mid-day trading on Friday after Citigroup raised their price target on the stock from $182.00 to $274.00. Citigroup currently has a neutral rating on the stock. Tesla traded as high as $24…",
+"url": "https://www.etfdailynews.com/2024/07/14/tesla-nasdaqtsla-stock-price-up-2-3-following-analyst-upgrade/",
+"urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/tesla-inc-logo-1200x675.png?v=20221020135629&w=240&h=240&zc=2",
+"publishedAt": "2024-07-14T05:22:49Z",
+"content": "Shares of Tesla, Inc. (NASDAQ:TSLA – Get Free Report) rose 2.3% during mid-day trading on Friday after Citigroup raised their price target on the stock from $182.00 to $274.00. Citigroup currently ha… [+5544 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Business Today"
+},
+"author": "Danny D'Cruze",
+"title": "Google CEO Sundar Pichai, Apple CEO Tim Cook, Tesla CEO Elon Musk react to shooting at Trump rally",
+"description": "Google CEO Sundar Pichai and Apple CEO Tim Cook expressed their shock and condemned the act of violence against the US presidential candidate Donald Trump",
+"url": "https://www.businesstoday.in/technology/news/story/google-ceo-sundar-pichai-apple-ceo-tim-cook-tesla-ceo-elon-musk-react-to-shooting-at-trump-rally-437081-2024-07-14",
+"urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202407/66934479d343c-donald-trump-firing-142300707-16x9.jpg",
+"publishedAt": "2024-07-14T03:24:45Z",
+"content": "On Saturday evening, former President Donald Trump was injured during a shooting at his rally in Butler, Pennsylvania. The Secret Service confirmed that the gunman and at least one audience member ar… [+3337 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "New York Post"
+},
+"author": "Dana Kennedy",
+"title": "Elon Musk goes all in for Trump after Pa. rally shooting: ‘I fully endorse President Trump’",
+"description": "\"Extreme incompetence or it was deliberate,\" Musk wrote. \"Either way, the SS leadership must resign.\"",
+"url": "https://nypost.com/2024/07/13/us-news/elon-musk-goes-all-in-for-trump-after-pa-rally-shooting-i-fully-endorse-president-trump/",
+"urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/newspress-collage-811582q4u-1720927152446.jpg?quality=75&strip=all&1720912779&w=1024",
+"publishedAt": "2024-07-14T03:24:37Z",
+"content": "President Trump has a new super fan in billionaire Elon Musk, who officially endorsed him for president after Saturday’s assassination attempt, saying “the last time we had a candidate this tough was… [+2815 chars]"
+},
+{
+"source": {
+"id": "fortune",
+"name": "Fortune"
+},
+"author": "Jason Ma",
+"title": "Trump assassination attempt makes election win more likely, and Americans’ willingness to use political violence may be highest since the Civil War, Ian Bremmer says",
+"description": "\"This is the worst sort of event that can happen in that environment, and I deeply worry that this presages much more political violence and social instability to come.\"",
+"url": "https://fortune.com/2024/07/13/donald-trump-assassination-attempt-election-win-political-violence-civil-war-ian-bremmer/",
+"urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/07/GettyImages-2161922003-e1720923783886.jpg?resize=1200,600",
+"publishedAt": "2024-07-14T03:07:38Z",
+"content": "Donald Trump appears to be fine following a shooting at a campaign rally Saturday, but American democracy is not, according to Ian Bremmer, president of political risk research and consulting firm Eu… [+3080 chars]"
+},
+{
+"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Lloyd Lee",
+"title": "Big Tech CEOs, billionaires, and business leaders react to Trump rally shooting",
+"description": "Business leaders from Tesla CEO Elon Musk to billionaire Mark Cuban are condemning the Saturday shooting at a Trump rally in Pennsylvania.",
+"url": "https://www.businessinsider.com/tech-ceos-business-leaders-react-trump-rally-shooting-2024-7",
+"urlToImage": "https://i.insider.com/66932f828893442a5156696c?width=1200&format=jpeg",
+"publishedAt": "2024-07-14T02:17:49Z",
+"content": "Tech CEOs Tim Cook, Elon Musk, and Mark Zuckerberg went on social media to condemn the Saturday shooting at a Trump rally.Getty Images\r\n<ul><li>Shots were fired at a Trump rally in Pennsylvania on Sa… [+3325 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hurriyet Daily News"
+},
+"author": "hurriyetdailynews.com",
+"title": "Trump injured but safe in apparent assassination bid",
+"description": "Donald Trump was hit in the ear in an apparent assassination attempt by a gunman at a campaign rally on Saturday, in a chaotic and shocking incident that will fuel fears of instability ahead of the 2024 U.S. presidential election.",
+"url": "https://www.hurriyetdailynews.com/trump-injured-but-safe-in-apparent-assassination-bid-198433",
+"urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/66933525e94ff2d6fa78910d.jpg",
+"publishedAt": "2024-07-14T02:17:41Z",
+"content": "PENNSYLVANIA\r\nDonald Trump was hit in the ear in an apparent assassinationattempt by a gunman at a campaign rally on Saturday, in a chaotic and shocking incident that will fuel fears of instability a… [+3871 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ibtimes.com.au"
+},
+"author": "Gregory WALTON",
+"title": "Trump Injured But Safe In Apparent Assassination Bid",
+"description": "Donald Trump was hit in the ear in an apparent assassination attempt by a gunman at a campaign rally on Saturday, in a chaotic and shocking incident that will fuel fears of instability ahead of the 2024 US presidential election.",
+"url": "https://www.ibtimes.com.au/trump-injured-safe-apparent-assassination-bid-1849520",
+"urlToImage": "https://d.ibtimes.com.au/en/full/1853690/republican-candidate-donald-trump-seen-what-appears-blood-his-face-surrounded-secret-service.jpg",
+"publishedAt": "2024-07-14T01:42:17Z",
+"content": "Donald Trump was hit in the ear in an apparent assassination attempt by a gunman at a campaign rally on Saturday, in a chaotic and shocking incident that will fuel fears of instability ahead of the 2… [+4161 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Business Standard"
+},
+"author": "ANI",
+"title": "Donald Trump safe, protective measures implemented: US State Service",
+"description": "Ahead of the 2024 US presidential elections, a gunfire incident disrupted former President Donald Trump's rally in Butler, Pennsylvania, on Saturday",
+"url": "https://www.business-standard.com/world-news/donald-trump-safe-protective-measures-implemented-us-state-service-124071400023_1.html",
+"urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/17/thumb/featurecrop/400X400/1718602854-5995.jpg",
+"publishedAt": "2024-07-14T01:31:03Z",
+"content": "Ahead of the 2024 US presidential elections, a gunfire incident disrupted former President Donald Trump's rally in Butler, Pennsylvania, on Saturday\r\nGuglielmi confirmed that Trump is safe and more i… [+2027 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "ET Online",
+"title": "Elon Musk endorses Trump in presidential race shortly after rally shooting, calls him 'tough'",
+"description": "Elon Musk publicly endorses Donald Trump for president, citing his toughness. Musk's endorsement marks a significant shift in his political stance, after previously supporting Democratic candidates. The endorsement comes amidst Musk's criticism of President B…",
+"url": "https://economictimes.indiatimes.com/news/international/world-news/elon-musk-endorses-trump-in-presidential-race-shortly-after-rally-shooting-calls-him-tough/articleshow/111723674.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-111723722,width-1200,height-630,imgsize-12702,overlay-economictimes/photo.jpg",
+"publishedAt": "2024-07-14T01:30:00Z",
+"content": "Elon Musk, the billionaire CEO of Tesla, has officially endorsed Donald Trump in the U.S. presidential race, praising the Republican former president as \"tough.\" Musk's endorsement came via a tweet t… [+1785 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "BusinessLine"
+},
+"author": "PTI",
+"title": "Donald Trump injured during Pennsylvania rally, shooter dead",
+"description": "Former President Donald Trump injured in apparent shooting at Pennsylvania rally, Secret Service confirms safety and shooter's death.",
+"url": "https://www.thehindubusinessline.com/news/world/donald-trump-injured-during-pennsylvania-rally-shooter-dead/article68402501.ece",
+"urlToImage": "https://bl-i.thgim.com/public/incoming/olr4xg/article68402503.ece/alternates/LANDSCAPE_1200/2024-07-14T010249Z_1605479373_RC2MU8AL0BEU_RTRMADP_3_USA-ELECTION-TRUMP.JPG",
+"publishedAt": "2024-07-14T01:15:49Z",
+"content": "Former US president and Republican presidential nominee Donald Trump got injured during his election rally in Pennsylvania following an apparent series of gunshots.\r\n Law enforcement officials said t… [+2630 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "AFP",
+"title": "Bloodied Trump 'safe' after shots fired at rally",
+"description": "Former US president Donald Trump was deemed \"safe\" after being rushed off stage when gunshots were fired at a campaign rally in Pennsylvania on Saturday. This shocking incident has heightened tensions in the run-up to the 2024 election. As the gunshots rang o…",
+"url": "https://economictimes.indiatimes.com/news/international/world-news/bloodied-trump-safe-after-shots-fired-at-rally/articleshow/111723611.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-111723618,width-1200,height-630,imgsize-60640,overlay-economictimes/photo.jpg",
+"publishedAt": "2024-07-14T01:11:54Z",
+"content": "Butler: Former US president Donald Trump was \"safe\" after he was rushed off stage when gunshots were fired at a campaign rally on Saturday in Pennsylvania, in a shocking incident that will fuel anxie… [+3739 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "BusinessLine"
+},
+"author": "PTI",
+"title": "Donald Trump injured following apparent gunfire at Pennsylvania rally, campaign says ‘he is safe’",
+"description": "Former President Donald Trump injured in apparent shooting at rally, quickly escorted to safety by Secret Service.",
+"url": "https://www.thehindubusinessline.com/news/world/donald-trump-injured-following-apparent-gunfire-at-pennsylvania-rally-campaign-says-he-is-safe/article68402487.ece",
+"urlToImage": "https://bl-i.thgim.com/public/incoming/fkj4yc/article68402491.ece/alternates/LANDSCAPE_1200/2024-07-14T001602Z_134201494_RC2MU8AEBCCZ_RTRMADP_3_USA-ELECTION-TRUMP.JPG",
+"publishedAt": "2024-07-14T00:53:10Z",
+"content": "Former US president and Republican presidential nominee Donald Trump got injured during his election rally in Pennsylvania following an apparent series of gunshots.\r\nLaw enforcement officials said th… [+4030 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Jason Ma",
+"title": "Elon Musk endorses Trump after shooting at campaign rally as political risk expert warns ‘US democracy in crisis’",
+"description": "\"I fully endorse President Trump and hope for his rapid recovery,\" Musk tweeted.",
+"url": "https://finance.yahoo.com/news/elon-musk-endorses-trump-shooting-004344375.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/76SMOPBrUReE9vElJYDweQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/6d473115d23cdc024f18fbac391c73a7",
+"publishedAt": "2024-07-14T00:43:44Z",
+"content": "Tesla CEO Elon Musk endorsed Donald Trump on Saturday, just minutes after a shooting at a campaign rally injured the former president.\r\nOn his social media platform X, Musk tweeted \"I fully endorse P… [+1975 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Business Standard"
+},
+"author": "Press Trust of India",
+"title": "Trump injured after gunfire at Pennsylvania rally, campaign says he is safe",
+"description": "Blood was seen on Trump's face and ear as he reached with his right hand toward his neck. Multiple media reports said that several gunshots were heard while Trump was addressing the rally",
+"url": "https://www.business-standard.com/world-news/trump-injured-after-gunfire-at-pennsylvania-rally-campaign-says-he-is-safe-124071400022_1.html",
+"urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/14/thumb/fitandfill/400X400/1720917515-98.jpg",
+"publishedAt": "2024-07-14T00:39:12Z",
+"content": "Blood was seen on Trump's face and ear as he reached with his right hand toward his neck. Multiple media reports said that several gunshots were heard while Trump was addressing the rally\r\nVice Presi… [+2330 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "cnbc.com",
+"title": "Elon Musk endorses Donald Trump shortly after ex-president injured by shots fired at rally",
+"description": "Tesla CEO Elon Musk said he “fully” endorses Trump after the former president was injured when shots were fired at a rally in Pennsylvania.",
+"url": "https://biztoc.com/x/f9584176fa342893",
+"urlToImage": "https://biztoc.com/cdn/799/og.png",
+"publishedAt": "2024-07-14T00:30:56Z",
+"content": "Tesla CEO Elon Musk said he fully endorses Trump after the former president was injured when shots were fired at a rally in Pennsylvania.\r\nThis story appeared on cnbc.com, 2024-07-14."
+},
+{
+"source": {
+"id": null,
+"name": "Investor's Business Daily"
+},
+"author": "Investor's Business Daily",
+"title": "Dow Jones Futures: Stock Market Powers Up; Trump Bloodied After Shots Fired At Rally",
+"description": "Key earnings loom with the Nasdaq extended. A volatile mix.",
+"url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-fed-rate-cut-donald-trump-rally/",
+"urlToImage": "https://www.investors.com/wp-content/uploads/2018/04/stock-trump-point-shutter.jpg",
+"publishedAt": "2024-07-14T00:21:06Z",
+"content": "Dow Jones futures will open Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. Netflix (NFLX), Taiwan Semiconductor (TSM), ASML (ASML) and Goldman Sachs (GS) headline key earnings rep… [+7161 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": null,
+"title": "Elon Musk endorses Donald Trump shortly after ex-president injured by shots fired at rally",
+"description": "Tesla CEO Elon Musk said he “fully” endorses Trump after the former president was injured when shots were fired at a rally in Pennsylvania.",
+"url": "https://www.cnbc.com/2024/07/13/elon-musk-endorses-trump-after-shots-were-fired-at-former-president-.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107412299-17151922372024-05-07t012157z_1611056837_rc2cl7a6d1h9_rtrmadp_0_milken-conference.jpeg?v=1717510520&w=1920&h=1080",
+"publishedAt": "2024-07-14T00:15:15Z",
+"content": "Elon Musk posted on X that he \"fully\" endorses Donald Trump moments after the former president and presumptive Republican nominee was rushed off stage by secret service members following gunshots at … [+1526 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Freerepublic.com"
+},
+"author": "WSJ",
+"title": "Elon Musk Endorses Trump for President After Incident",
+"description": "Billionaire Elon Musk, who reportedly had donated to a super PAC working to elect Donald Trump as president, made his backing of Trump official following the apparent shooting. \"I fully endorse President Trump and hope for his rapid recovery,\" he said on X. I…",
+"url": "https://freerepublic.com/focus/f-news/4251000/posts",
+"urlToImage": null,
+"publishedAt": "2024-07-14T00:09:34Z",
+"content": "Skip to comments.\r\nElon Musk Endorses Trump for President After IncidentWSJ ^\r\n | July 13, 2024\r\nPosted on 07/13/2024 5:09:34 PM PDT by CondoleezzaProtege\r\nBillionaire Elon Musk, who reportedly had d… [+5765 chars]"
+},
+{
+"source": {
+"id": "fortune",
+"name": "Fortune"
+},
+"author": "Jason Ma",
+"title": "Elon Musk endorses Trump after shooting at campaign rally as political risk expert warns ‘democracy in crisis’",
+"description": "\"I fully endorse President Trump and hope for his rapid recovery,\" Musk tweeted.",
+"url": "https://fortune.com/2024/07/13/donald-trump-campaign-shooting-reaction-elon-musk-tesla-us-democracy/",
+"urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/07/GettyImages-2151277359-e1720913744174.jpg?resize=1200,600",
+"publishedAt": "2024-07-13T23:58:26Z",
+"content": "Tesla CEO Elon Musk endorsed Donald Trump Saturday just minutes after a shooting at a campaign rally injured the former president.On his social media platform X, Musk tweeted I fully endorse Presiden… [+1194 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "reuters.com",
+"title": "Elon Musk says he fully endorses \"tough\" Trump, posts photo",
+"description": "Elon Musk, the billionaire CEO of Tesla, said he \"fully endorsed\" Donald Trump, calling the Republican presidential candidate \"tough.\"",
+"url": "https://biztoc.com/x/a0d2752d0214221e",
+"urlToImage": "https://biztoc.com/cdn/a0d2752d0214221e_s.webp",
+"publishedAt": "2024-07-13T23:57:50Z",
+"content": "Elon Musk, the billionaire CEO of Tesla, said he \"fully endorsed\" Donald Trump, calling the Republican presidential candidate \"tough.\"\r\nThis story appeared on reuters.com, 2024-07-13."
+},
+{
+"source": {
+"id": null,
+"name": "Investing.com"
+},
+"author": "Reuters",
+"title": "Elon Musk says he fully endorses \"tough\" Trump, posts photo",
+"description": "Elon Musk says he fully endorses \"tough\" Trump, posts photo",
+"url": "https://www.investing.com/news/economy-news/elon-musk-says-he-fully-endorses-tough-trump-posts-photo-3518181",
+"urlToImage": "https://i-invdn-com.investing.com/news/indicatornews_2_800x533_L_1412601599.jpg",
+"publishedAt": "2024-07-13T23:50:52Z",
+"content": "(Reuters) - Elon Musk, the billionaire CEO of Tesla (NASDAQ:TSLA), said he \"fully endorsed\" Donald Trump, calling the Republican presidential candidate \"tough.\"\r\nTrump was safe, the U.S. Secret Servi… [+1451 chars]"
+},
+{
+"source": {
+"id": "breitbart-news",
+"name": "Breitbart News"
+},
+"author": "Katherine Hamilton, Katherine Hamilton",
+"title": "Elon Musk Fully Endorses Donald Trump After Assassination Attempt in Pennsylvania",
+"description": "Elon Musk officially endorsed Donald Trump Saturday evening, minutes after shots were fired at Trump during a rally in Butler, Pennsylvania.\nThe post Elon Musk Fully Endorses Donald Trump After Assassination Attempt in Pennsylvania appeared first on Breitbart.",
+"url": "https://www.breitbart.com/politics/2024/07/13/elon-musk-fully-endorses-donald-trump-after-assassination-attempt-in-pennsylvania/",
+"urlToImage": "https://media.breitbart.com/media/2024/07/Indonesia-Elon-Musk-640x335.jpeg",
+"publishedAt": "2024-07-13T23:42:43Z",
+"content": "Tech billionaire Elon Musk officially endorsed former President Donald Trump on Saturday evening, minutes after shots were fired at Trump during a rally in Butler, Pennsylvania.\r\n“I fully endorse Pre… [+2624 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Mediaite"
+},
+"author": "Alex Griffing",
+"title": "Elon Musk ‘Fully Endorses’ Trump, Wishes For ‘Rapid Recovery’ While Sharing Clip of Rally Attack on X",
+"description": "Elon Musk gave Donald Trump his full endorsement on Saturday following an attack on the former president at a rally in Pennsylvania. “I fully endorse President Trump and hope for his rapid recovery,” wrote the Tesla billionaire and controversial owner of X. T…",
+"url": "https://www.mediaite.com/politics/elon-musk-fully-endorses-trump-wishes-for-rapid-recovery-while-sharing-clip-of-rally-attack-on-x/",
+"urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/02/AP19061367234636-scaled.jpg",
+"publishedAt": "2024-07-13T23:13:55Z",
+"content": "AP Photo/John Raoux\r\nElon Musk gave Donald Trump his full endorsement on Saturday following an attack on the former president at a rally in Pennsylvania.\r\n“I fully endorse President Trump and hope fo… [+1002 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Securityaffairs.com"
+},
+"author": "Pierluigi Paganini",
+"title": "Vyacheslav Igorevich Penchukov was sentenced to prison for his role in Zeus and IcedID operations",
+"description": "Ukrainian national Vyacheslav Igorevich Penchukov was sentenced to prison for his role in Zeus and IcedID malware operations. The U.S. DoJ sentenced the Ukrainian national Vyacheslav Igorevich Penchukov (37) to prison and ordered him to pay millions of dollar…",
+"url": "https://securityaffairs.com/165693/cyber-crime/vyacheslav-igorevich-penchukov-sentenced-prison.html",
+"urlToImage": "https://securityaffairs.com/wp-content/uploads/2022/11/Zeus-penchukov-fbiwanted.png",
+"publishedAt": "2024-07-13T22:36:08Z",
+"content": "Vyacheslav Igorevich Penchukov was sentenced to prison for his role in Zeus and IcedID operations\r\n | Rite Aid disclosed data breach following RansomHub ransomware attack\r\n | New AT&amp;T data breach… [+83695 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Investing.com"
+},
+"author": "Investing.com",
+"title": "Jefferies says AI is already a bubble. But the bubble will likely get bigger",
+"description": "Jefferies says AI is already a bubble. But the bubble will likely get bigger",
+"url": "https://www.investing.com/news/stock-market-news/jefferies-says-ai-is-already-a-bubble-but-the-bubble-will-likely-get-bigger-432SI-3518176",
+"urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_L.jpg",
+"publishedAt": "2024-07-13T22:31:02Z",
+"content": "The AI bubble is likely to get bigger before deflating, Jefferies analysts said in a recent note.\r\nSince the introduction of ChatGPT, the market capitalization of a select group of 27 large-cap AI st… [+2430 chars]"
+},
+{
+"source": {
+"id": "the-jerusalem-post",
+"name": "The Jerusalem Post"
+},
+"author": "BY REUTERS",
+"title": "Sounds of multiple shots heard at Trump rally in Pennsylvania, possible assassination attempt",
+"description": "The video appeared to show blood on his ear, and armed law enforcement officers were then seen on a roof near the stage where Trump was standing.",
+"url": "https://www.jpost.com/breaking-news/article-810177",
+"urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/609454",
+"publishedAt": "2024-07-13T22:25:26Z",
+"content": "Multiple shots rang out at Donald Trump's rally in Pennsylvania on Saturday, with the Republican presidential candidate raising a fist as he was escorted to a vehicle by the US Secret Service, video … [+2562 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Slashdot.org"
+},
+"author": "feedfeeder",
+"title": "Billionaire Biden Donor Blasts White House’s Treatment Of Tesla After Musk’s Apparent Trump Donation - Forbes",
+"description": "Billionaire Biden Donor Blasts White House’s Treatment Of Tesla After Musk’s Apparent Trump DonationForbes Elon Musk Donates to Trump, Tapping Vast Fortune to Swing 2024 RaceBloomberg Biden campaign blasts Musk's 'arrogant' pro-Trump super PAC donationBusines…",
+"url": "https://slashdot.org/firehose.pl?op=view&amp;id=174494185",
+"urlToImage": null,
+"publishedAt": "2024-07-13T22:13:42Z",
+"content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+},
+{
+"source": {
+"id": "next-big-future",
+"name": "Next Big Future"
+},
+"author": "Brian Wang",
+"title": "Tesla Robotaxi Versus Uber",
+"description": "Youtuber Connecting the Dots makes the case for Tesla to use Robotaxi to replace Uber. The BG2 podcast (VCs that own Uber and Tesla) suggest that it would be better for Tesla to partner with Uber. He believes Tesla could use the X (aka Twitter) user base to s…",
+"url": "https://www.nextbigfuture.com/2024/07/tesla-robotaxi-versus-uber.html",
+"urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/07/Screen-Shot-2024-07-13-at-1.15.41-PM.jpg",
+"publishedAt": "2024-07-13T21:44:44Z",
+"content": "Youtuber Connecting the Dots makes the case for Tesla to use Robotaxi to replace Uber. The BG2 podcast (VCs that own Uber and Tesla) suggest that it would be better for Tesla to partner with Uber. He… [+5499 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Mediaite"
+},
+"author": "Phillip Nieto",
+"title": "Elon Musk Makes Major Political Donation to Presidential Candidate’s PAC, Per Report",
+"description": "Billionaire Elon Musk has donated to a super PAC working to elect former President Donald Trump back to the Oval Office. \nThe post Elon Musk Makes Major Political Donation to Presidential Candidate’s PAC, Per Report first appeared on Mediaite.",
+"url": "https://www.mediaite.com/politics/elon-musk-makes-major-political-donation-to-presidential-candidates-pac-per-report/",
+"urlToImage": "https://www.mediaite.com/wp-content/uploads/2024/04/AP24105343410294-scaled.jpg",
+"publishedAt": "2024-07-13T21:36:30Z",
+"content": "(Photo By Sthanlee B. Mirador/Sipa USA)(Sipa via AP Images)\r\nBillionaire Elon Musk has donated to a super PAC working to elect former President Donald Trump back to the Oval Office, according to a re… [+1818 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Securityaffairs.com"
+},
+"author": "Pierluigi Paganini",
+"title": "Rite Aid disclosed data breach following RansomHub ransomware attack",
+"description": "The American drugstore chain Rite Aid Corporation disclosed a data breach following the cyber attack that hit the company in June. The American drugstore chain giant Rite Aid suffered a data breach following a cyberattack in June conducted by the RansomHub ra…",
+"url": "https://securityaffairs.com/165674/data-breach/rite-aid-corporation-data-breach.html",
+"urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/07/image-13.png",
+"publishedAt": "2024-07-13T19:56:57Z",
+"content": "Rite Aid disclosed data breach following RansomHub ransomware attack\r\n | New AT&amp;T data breach exposed call logs of almost all customers\r\n | Critical flaw in Exim MTA could allow to deliver malwar… [+83593 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "businessinsider.com",
+"title": "Tesla driver says his car malfunctioned and started accelerating after a head-on collision with a Jeep",
+"description": "The Tesla company logo is pictured on a Model X electric car.\nReuters\nA man says his Tesla malfunctioned, accelerating on its own after a collision in Nevada.\nThe couple said the incident followed a head-on collision with a Jeep that they caught on camera.\nTh…",
+"url": "https://biztoc.com/x/141c5994e0f69d6d",
+"urlToImage": "https://biztoc.com/cdn/141c5994e0f69d6d_s.webp",
+"publishedAt": "2024-07-13T17:45:01Z",
+"content": "The Tesla company logo is pictured on a Model X electric car.ReutersA man says his Tesla malfunctioned, accelerating on its own after a collision in Nevada.The couple said the incident followed a hea… [+138 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Robert Barone, Contributor, \n Robert Barone, Contributor\n https://www.forbes.com/sites/greatspeculations/people/robertbarone/",
+"title": "CPI Deflationary; Full-Time Employment Swoons; Housing In The Dumpster – Could The Fed Be Any Further “Behind The Curve”?",
+"description": "Signs of a cooling economy are emerging. Our analysis reveals that employment is weakening as seen in the spikes in Initial and Continuing Employment Claims.",
+"url": "https://www.forbes.com/sites/greatspeculations/2024/07/13/cpi-deflationary-full-time-employment-swoons-housing-in-the-dumpster--could-the-fed-be-any-further-behind-the-curve/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6692b94a2feb349cabe9ed64/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+"publishedAt": "2024-07-13T17:32:28Z",
+"content": "There appeared to be some shifting in the equity market rally this past week (ending July 12th) with small cap stocks (Russell 2000, +6.00%) upstaging tech (Nasdaq: +0.25%), the cap weighted S&amp;P5… [+13124 chars]"
+},
+{
+"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Katie Balevic",
+"title": "Tesla driver says his car malfunctioned and started accelerating after a head-on collision with a Jeep",
+"description": "A Tesla driver said moments after a head-on crash with a Jeep, his car malfunctioned and began accelerating on its own.",
+"url": "https://www.businessinsider.com/driver-says-tesla-malfunctioned-accelerated-after-head-on-collision-report-2024-7",
+"urlToImage": "https://i.insider.com/6692af578893442a515663df?width=1200&format=jpeg",
+"publishedAt": "2024-07-13T17:31:12Z",
+"content": "The Tesla company logo is pictured on a Model X electric car.Reuters\r\n<ul><li>A man says his Tesla malfunctioned, accelerating on its own after a collision in Nevada.</li><li>The couple said the inci… [+2182 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "New York Post"
+},
+"author": "Chris Harris",
+"title": "Tesla amends policy blocking Cybertruck owners from reselling",
+"description": "Tesla bigwigs have reversed course on a strict policy, freeing up Cybertruck owners to resell if they so chose.",
+"url": "https://nypost.com/2024/07/13/us-news/cybertruck-policy-reversal-slippery-slope-for-tesla/",
+"urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/06/878-cybertruck-vehicles-defect-cause-84633881.jpg?quality=75&strip=all&w=1024",
+"publishedAt": "2024-07-13T17:01:40Z",
+"content": "He was Cyber-stuck.\r\nRetired Salt Lake City CEO Blaine Raddon finally sold his Cybertruck late last month after he and several other owners of the problem-plagued pickups successfully challenged a pr… [+3407 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "abnormalreturns.com",
+"title": "Saturday links: creating wealth",
+"description": "Autos\nNeed a used car? Think EV. (msn.com)\nRivian ($RIVN) is the anti-Tesla ($TSLA). (bloomberg.com)\nWhat it's like to drive a Tesla ($TSLA) Cybertruck around for a day. (sfgate.com)\nEnergy\nWind now generates more power than coal in the U.S. (sherwood.news)\nE…",
+"url": "https://biztoc.com/x/e13da9a3b4da0753",
+"urlToImage": "https://biztoc.com/cdn/799/og.png",
+"publishedAt": "2024-07-13T16:39:10Z",
+"content": "AutosNeed a used car? Think EV. (msn.com)Rivian ($RIVN) is the anti-Tesla ($TSLA). (bloomberg.com)What it's like to drive a Tesla ($TSLA) Cybertruck around for a day. (sfgate.com)EnergyWind now gener… [+133 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CleanTechnica"
+},
+"author": "José Pontes",
+"title": "45% of New Cars Sold in Netherlands in 2024 Have a Plug!",
+"description": "In a negative month in the overall market (down 12% to 35,386 sales), June saw plugin registrations also drop by 15% YoY, to 16,089 units. As a result, the Dutch plugin vehicle (PEV) market reached 45% market share last month, in line with the year-to-date av…",
+"url": "https://cleantechnica.com/2024/07/13/45-of-new-cars-sold-in-netherlands-in-2024-have-a-plug/",
+"urlToImage": "https://cleantechnica.com/wp-content/uploads/2024/07/2024-06-Netherlands-EV-Sales-Report.png",
+"publishedAt": "2024-07-13T16:36:57Z",
+"content": "Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!\r\nIn a negative month in the overall market (down 12% to 35,386 sales), June saw plugin registrations also drop… [+10107 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CNA"
+},
+"author": null,
+"title": "Musk donates to group working to elect Trump: Report",
+"description": "WASHINGTON: Billionaire Elon Musk, who has been ramping up criticism of US President Joe Biden, has donated to a political group working to elect rival presidential candidate Donald Trump, Bloomberg reported on Friday (Jul 12), citing sources. The report did …",
+"url": "https://www.channelnewsasia.com/world/elon-musk-donates-group-working-elect-donald-trump-report-4478156",
+"urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--ZmprIESl--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/musk_trump_00088.jpg?itok=pQBFku_l",
+"publishedAt": "2024-07-13T16:13:59Z",
+"content": "WASHINGTON: Billionaire Elon Musk, who has been ramping up criticism of US President Joe Biden, has donated to a political group working to elect rival presidential candidate Donald Trump, Bloomberg … [+2324 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "The Feed",
+"title": "Elon Musk donates huge amount to Pro-Trump PAC ahead of 2024 election. Will he endorse Republican nominee as well?",
+"description": "Elon Musk has made a large donation to America PAC, a group supporting Donald Trump in the 2024 election. This donation is Musk's largest political contribution to date, though he has not endorsed any candidate publicly.",
+"url": "https://economictimes.indiatimes.com/news/international/us/elon-musk-donates-huge-amount-to-pro-trump-pac-ahead-of-2024-election-will-he-endorse-republican-nominee-as-well/articleshow/111717895.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-111717914,width-1200,height-630,imgsize-35936,overlay-economictimes/photo.jpg",
+"publishedAt": "2024-07-13T16:11:40Z",
+"content": "Billionaire Elon Musk has contributed a large sum to a political organization that is backing former President Donald Trump in the 2024 race. Musk reportedly gave a significant donation to America PA… [+2606 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Derek Saul, Forbes Staff, \n Derek Saul, Forbes Staff\n https://www.forbes.com/sites/dereksaul/",
+"title": "Billionaire Biden Donor Eviscerates His Treatment Of Tesla The White House’s—After Musk's Apparent Trump Donation",
+"description": "Musk’s “dear friend” Jeff Skoll, an eBay billionaire who donated $645,600 to Biden’s 2020 campaign, tore into the president for “persecuting” entrepreneurs like Musk.",
+"url": "https://www.forbes.com/sites/dereksaul/2024/07/13/billionaire-biden-donor-eviscerates-his-treatment-of-tesla-the-white-houses-after-musks-apparent-trump-donation/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66929f55259452652835155b/0x0.jpg?format=jpg&crop=2053,1156,x0,y76,safe&height=900&width=1600&fit=bounds",
+"publishedAt": "2024-07-13T15:43:01Z",
+"content": "Jeff Skoll, an eBay billionaire who was among the biggest donors to Joe Bidens 2020 election campaign, tore into Biden in a Saturday social media post for his treatment of Tesla, the American electri… [+4297 chars]"
+},
+{
+"source": {
+"id": "fortune",
+"name": "Fortune"
+},
+"author": "Nguyen Kieu Giang, Bloomberg",
+"title": "EV maker VinFast slashes full-year sales target by 20% as U.S. factory is delayed",
+"description": "VinFast Auto said it will delay the opening of its electric vehicle factory in North Carolina by three years to 2028.",
+"url": "https://fortune.com/2024/07/13/vinfast-full-year-sales-target-cut-20-percent-ev-factory-delay-vfs-stock/",
+"urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/07/GettyImages-1243922913-e1720882761591.jpg?resize=1200,600",
+"publishedAt": "2024-07-13T15:12:24Z",
+"content": "VinFast Auto Ltd. said it will delay the opening of its electric vehicle factory in North Carolina by three years to 2028, adding to the Vietnamese companys challenges of becoming a global brand.The … [+2974 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "1970-01-01T00:00:00Z",
+"content": "[Removed]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "aol.com",
+"title": "Elon Musk donates to pro-Trump super PAC: Bloomberg report",
+"description": "Technology billionaire Elon Musk donated to a super PAC supporting the reelection efforts of former President Trump, according to reporting from Bloomberg.\nMusk, the CEO of SpaceX and Tesla, gave an undisclosed amount of money to the America PAC, sources clos…",
+"url": "https://biztoc.com/x/5b52dbe81b4f2ddd",
+"urlToImage": "https://biztoc.com/cdn/5b52dbe81b4f2ddd_s.webp",
+"publishedAt": "2024-07-13T14:38:08Z",
+"content": "Technology billionaire Elon Musk donated to a super PAC supporting the reelection efforts of former President Trump, according to reporting from Bloomberg.Musk, the CEO of SpaceX and Tesla, gave an u… [+127 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Wnd.com"
+},
+"author": "Duggan Flanakin, Real Clear Wire",
+"title": "Math is where EV boosters fail",
+"description": "According to Electrly, the electric vehicle charging manufacturer, it takes an average of 90 kilowatt-hours of electricity to fully charge a Tesla Model Y long range all-wheel-drive vehicle, 83 kWh for the Model Y performance version, and 67 kWh for the stand…",
+"url": "https://www.wnd.com/2024/07/math-is-where-ev-boosters-fail/",
+"urlToImage": "https://www.wnd.com/wp-content/uploads/1970/01/electricity-power-lines-pixabay.jpg",
+"publishedAt": "2024-07-13T14:25:00Z",
+"content": "According to Electrly, the electric vehicle charging manufacturer, it takes an average of 90 kilowatt-hours of electricity to fully charge a Tesla Model Y long range all-wheel-drive vehicle, 83 kWh f… [+6354 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Segun Olakoyenikan, Forbes Staff, \n Segun Olakoyenikan, Forbes Staff\n https://www.forbes.com/sites/segunolakoyenikan/",
+"title": "Market Lessons: Shareholder Yield—Venture Beyond Dividends With These 16 Stocks",
+"description": "Yield means more than quarterly dividend payouts. There is much to be said for defining it to include two other ways to enrich shareholders.",
+"url": "https://www.forbes.com/sites/segunolakoyenikan/2024/07/13/market-lessons-shareholder-yield-venture-beyond-dividends-with-these-16-stocks/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/668ff7bbacace79e6a0ab43a/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
+"publishedAt": "2024-07-13T14:06:41Z",
+"content": "ARTIEMEDVEDEV/ GETTY IMAGES\r\nShareholder yield is a notion that has gained much currency in recent years. Definition: money spent in one of three ways to reward shareholders, divided by market capita… [+5235 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Bitcoinist"
+},
+"author": "Scott Matherson",
+"title": "Road To Trillions: Shiba Inu Lead Developer Reveals Where The Project Is Headed",
+"description": "Shiba’s Inu lead developer, Shytoshi Kusama has disclosed his ambitious plans for Shiba Inu (SHIB). His vision for the crypto project involves multifaceted approaches including market capitalization growth and technological advancement.   Related Reading: Eth…",
+"url": "https://bitcoinist.com/road-to-trillions-shiba-inu-lead-developer-reveals-where-the-project-is-headed/",
+"urlToImage": "https://bitcoinist.com/wp-content/uploads/2024/07/a_fcd1bf.jpg",
+"publishedAt": "2024-07-13T14:00:39Z",
+"content": "Shibas Inu lead developer, Shytoshi Kusama has disclosed his ambitious plans for Shiba Inu (SHIB). His vision for the crypto project involves multifaceted approaches including market capitalization g… [+2939 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Freerepublic.com"
+},
+"author": "Breitbart",
+"title": "WATCH: Climate Radicals Vandalise Tesla Electric Car Centre",
+"description": "Far-left climate change activists doused a Tesla Cybertruck electric vehicle exhibit in Germany on Saturday in a protest against “how the super-rich deal with global warming”. In a further demonstration of dubious standards by green agenda radicals, members o…",
+"url": "https://freerepublic.com/focus/f-news/4250888/posts",
+"urlToImage": null,
+"publishedAt": "2024-07-13T13:50:48Z",
+"content": "Skip to comments.\r\nWATCH: Climate Radicals Vandalise Tesla Electric Car CentreBreitbart ^\r\n | 06/13/2024\r\n | Kurt Zindulka\r\nPosted on 07/13/2024 6:50:48 AM PDT by ChicagoConservative27\r\nFar-left clim… [+3507 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CleanTechnica"
+},
+"author": "David Waterworth",
+"title": "Is It Groundhog Day for the Australian EV Market?",
+"description": "There are times when I review the electric vehicle penetration rates for Australia that I feel like I am stuck in Groundhog Day. Each month, new models are spotted — this month, it is the MG Cybster and the Xpeng G6 that have sneak photos on Facebook sites — …",
+"url": "https://cleantechnica.com/2024/07/13/is-it-groundhog-day-for-the-australian-ev-market/",
+"urlToImage": "https://cleantechnica.com/wp-content/uploads/2024/07/Australia-EV-Sales-Tesla-lineup.jpg",
+"publishedAt": "2024-07-13T13:48:49Z",
+"content": "Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!\r\nThere are times when I review the electric vehicle penetration rates for Australia that I feel like I am stuc… [+6643 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "fortune.com",
+"title": "Tesla’s AI dreams may ‘materialize on a longer time horizon (or not at all),’ UBS warns",
+"description": "UBS downgraded Tesla stock from a ‘Neutral’ to a ‘Sell’ rating on Friday, warning that expectations for the EV giant’s core automotive business are deteriorating and its AI investments may not pay off.\n“While TSLA is investing heavily in AI and the tech is ma…",
+"url": "https://biztoc.com/x/662467db8371db52",
+"urlToImage": "https://biztoc.com/cdn/662467db8371db52_s.webp",
+"publishedAt": "2024-07-13T13:43:24Z",
+"content": "UBS downgraded Tesla stock from a Neutral to a Sell rating on Friday, warning that expectations for the EV giants core automotive business are deteriorating and its AI investments may not pay off.Whi… [+129 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tom's Hardware UK"
+},
+"author": "Jowi Morales",
+"title": "Former Tesla AI Director reproduces GPT-2 in 24 hours for only $672 — GPT-4 costs $100 million to train",
+"description": "The project started as an educational video, but the developer got stuck on a few things, so 'raged-quit' and decided to rebuild GPT-2 from scratch.",
+"url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/former-tesla-ai-director-reproduces-gpt-2-in-24-hours-for-only-672",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/kDXTgfLm5KsHxmoc2TTaCM-1200-80.jpg",
+"publishedAt": "2024-07-13T13:19:33Z",
+"content": "OpenAI launched GPT-2 in 2019, reportedly costing $256 per hour to train. However, it’s been five years since then, and we’re already at GPT-4o. Advancements in hardware, software, and data mean that… [+3275 chars]"
+},
+{
+"source": {
+"id": "breitbart-news",
+"name": "Breitbart News"
+},
+"author": "Alana Mastrangelo, Alana Mastrangelo",
+"title": "Mark Zuckerberg's Meta Removes Restrictions on Donald Trump's Facebook and Instagram Accounts",
+"description": "Mark Zuckerberg's Meta has announced it will remove restrictions on former President Donald Trump's Facebook and Instagram accounts ahead of the 2024 presidential election.\nThe post Mark Zuckerberg’s Meta Removes Restrictions on Donald Trump’s Facebook and In…",
+"url": "https://www.breitbart.com/tech/2024/07/13/mark-zuckerbergs-meta-removes-restrictions-on-donald-trumps-facebook-and-instagram-accounts/",
+"urlToImage": "https://media.breitbart.com/media/2024/07/bg-spc-7-18-24-640x335.png",
+"publishedAt": "2024-07-13T13:01:19Z",
+"content": "Mark Zuckerberg’s Meta has announced it will remove restrictions on former President Donald Trump’s Facebook and Instagram accounts ahead of the 2024 presidential election.\r\nOn Friday, Meta said it w… [+2634 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Quartz India"
+},
+"author": "Quartz Bot",
+"title": "Tesla troubles, Elon Musk's X stuck in place, Hinge and Grindr win the dating wars: Tech news rounup",
+"description": "Younger generations are deleting dating apps and seeking long-term love and IRL meet-cutes. Tinder is struggling because those would-be users don’t want casual hookups; Bumble has missed the mark when it’s sought to expand its customer base beyond millennial …",
+"url": "https://qz.com/tesla-elon-musk-x-hinge-grindr-bumble-tinder-1851590047",
+"urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/dd3c737563d437388e85ba345e81ad47.jpg",
+"publishedAt": "2024-07-13T13:00:00Z",
+"content": "For the first time, Teslas share of the electric vehicle market has fallen to less than 50% in a quarter. But investors dont seem to mind much. \r\nTeslas U.S. sales declined by 6.3% during the second … [+301 chars]"
+},
+{
+"source": {
+"id": "breitbart-news",
+"name": "Breitbart News"
+},
+"author": "Kurt Zindulka, Kurt Zindulka",
+"title": "WATCH: Climate Radicals Vandalise Tesla Electric Car Centre",
+"description": "Climate activists doused a Tesla Cybertruck electric vehicle exhibit in Germany to protest \"how the super-rich deal with global warming\"\nThe post WATCH: Climate Radicals Vandalise Tesla Electric Car Centre appeared first on Breitbart.",
+"url": "https://www.breitbart.com/europe/2024/07/13/watch-climate-radicals-vandalise-tesla-electric-car-centre/",
+"urlToImage": "https://media.breitbart.com/media/2024/07/GettyImages-2160758782-1-640x335.jpg",
+"publishedAt": "2024-07-13T12:20:07Z",
+"content": "Far-left climate change activists doused a Tesla Cybertruck electric vehicle exhibit in Germany on Saturday in a protest against “how the super-rich deal with global warming”.\r\nIn a further demonstra… [+2252 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CarScoops"
+},
+"author": "Stephen Rivers",
+"title": "In A Shocking Twist Of Tradition, Tesla Reportedly Pushes Back Robotaxi’s Release Date",
+"description": "Shares of the company tanked almost ten percent while rival driverless taxi brands saw bumps in the market",
+"url": "https://www.carscoops.com/2024/07/in-a-shocking-twist-of-tradition-tesla-reportedly-pushes-back-robotaxis-release-date/",
+"urlToImage": "https://www.carscoops.com/wp-content/uploads/2024/07/0x0-Supercharger_15-1.jpg",
+"publishedAt": "2024-07-13T12:12:35Z",
+"content": "Shares of the company tanked almost ten percent while rival driverless taxi brands saw bumps in the market \r\n<ul><li>A report claims that Tesla’s Robotaxi reveal is going to be two full months late.<… [+2588 chars]"
+},
+{
+"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Nora Naughton",
+"title": "Tesla's massive EV market share was never sustainable",
+"description": "Tesla's dominance in the EV market is slipping, but it's not time for CEO Elon Musk to panic just yet.",
+"url": "https://www.businessinsider.com/tesla-loses-market-share-but-elon-musk-still-wins-2024-7",
+"urlToImage": "https://i.insider.com/66917f2d9caa6ed01e0144ed?width=1200&format=jpeg",
+"publishedAt": "2024-07-13T11:59:02Z",
+"content": "Teslas parked outside a showroom.Justin Sullivan/Getty Images\r\n<ul><li>Tesla's US market share has fallen below 50% for the first time.</li><li>While Tesla's dominance is waning, overall electric veh… [+3540 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "investorplace.com",
+"title": "Tesla Walked So These 3 EV Stocks Could Fly",
+"description": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips\nTesla has done a tremendous job in creating the modern EV market, but certain EV stocks are preparing to take the mantle.\nThe post Tesla Walked So These 3 EV Stocks Could Fly appeared first on Inv…",
+"url": "https://biztoc.com/x/ae43d402cc3210bc",
+"urlToImage": "https://biztoc.com/cdn/799/og.png",
+"publishedAt": "2024-07-13T11:42:12Z",
+"content": "InvestorPlace - Stock Market News, Stock Advice &amp; Trading TipsTesla has done a tremendous job in creating the modern EV market, but certain EV stocks are preparing to take the mantle.The post Tes… [+136 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Investor's Business Daily"
+},
+"author": "Investor's Business Daily",
+"title": "Dow Jones Futures: Market Rally Powers Up On Fed Rate Cut Hopes; 4 Stocks In Buy Zones",
+"description": "But key earnings loom with the Nasdaq extended.",
+"url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-fed-rate-cut-earnings/",
+"urlToImage": "https://www.investors.com/wp-content/uploads/2023/11/Stock-powerfuldoors-01-adobe.jpg",
+"publishedAt": "2024-07-13T11:42:06Z",
+"content": "Dow Jones futures will open Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. Netflix (NFLX), Taiwan Semiconductor (TSM), ASML (ASML) and Goldman Sachs (GS) headline key earnings rep… [+6810 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "J. Arky",
+"title": "7 Luxury Cars That Are Worth the Investment for Retirees",
+"description": "Lots of retirees are on a fixed budget once they leave the workforce. Between Social Security, pensions, retirement plans and savings, retirees tend to put...",
+"url": "https://finance.yahoo.com/news/7-luxury-cars-worth-investment-110101883.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/Cw9OBr4NyWf_kkIXWI6ZZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/c48b93fe3b2f0e3f67c41df47439cec8",
+"publishedAt": "2024-07-13T11:01:01Z",
+"content": "nortonrsx / Getty Images/iStockphoto\r\nLots of retirees are on a fixed budget once they leave the workforce. Between Social Security, pensions, retirement plans and savings, retirees tend to put their… [+4540 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Quartz India"
+},
+"author": "Andy Kalmowitz / Jalopnik",
+"title": "Sedans are totally going extinct so let's check out all the ones that are still with us",
+"description": "Once upon a time, sedans ruled the automotive landscape. They were the go-to mode of transportation for just about everyone, but oh my, how times have changed. By my count, there are just 56 sedans left on the market, with at least six already scheduled to di…",
+"url": "https://qz.com/sedans-extinct-1851589711",
+"urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ecdc232c5ed73e402a705ff938c8ea10.jpg",
+"publishedAt": "2024-07-13T11:00:00Z",
+"content": "Once upon a time, sedans ruled the automotive landscape. They were the go-to mode of transportation for just about everyone, but oh my, how times have changed. By my count, there are just 56 sedans l… [+1056 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Autoblog"
+},
+"author": "Yahoo Finance",
+"title": "Tesla's U.S. EV market share dips below 50% in Q2 as Ford, Kia, BMW see growth",
+"description": "Filed under:\n By the Numbers,Earnings/Financials,Green,Tesla,Electric\n Continue reading Tesla's U.S. EV market share dips below 50% in Q2 as Ford, Kia, BMW see growth\nTesla's U.S. EV market share dips below 50% in Q2 as Ford, Kia, BMW see growth originally ap…",
+"url": "https://www.autoblog.com/2024/07/13/teslas-u-s-ev-market-share-dips-below-50-in-q2-as-ford-kia-bmw-see-growth/",
+"urlToImage": "https://s.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1200x675/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2023/10/03093735/2024-Ford-Lightning-Flash-011.jpg",
+"publishedAt": "2024-07-13T11:00:00Z",
+"content": "As EV sales continue to grow in the U.S., albeit at a slower pace than expected, Teslas share of the market dipped below a key level as improved competitor EV offerings hit showroom floors.\r\nCox Auto… [+3322 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Nakedcapitalism.com"
+},
+"author": "Yves Smith",
+"title": "Links 7/13/2024",
+"description": "Our rebellious daily links: Night owls, Covid nasal vax trial, South China Sea confrontation Africa backs Russia, German shoplifting, France chaos, UK credit crisis? Ukraine Patriot batteries destroyed, drone prison deliveries, moar Dem Biden freakout, EU X c…",
+"url": "https://www.nakedcapitalism.com/2024/07/links-7-13-2024.html",
+"urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2024/07/00-fly.jpg",
+"publishedAt": "2024-07-13T10:55:14Z",
+"content": "Archaeologists Find a Marble Statue in an Ancient Roman Sewer New York Times (Robin K) \r\nNight Owls Had More Brainpower in Large UK Survey Bloomberg. Furzy cites:\r\nOlder adults who self-identified as… [+8544 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Bleichmar Fonti & Auld",
+"title": "MDB INVESTOR NOTICE: MongoDB, Inc. (Nasdaq:MDB) Shareholders that Incurred Losses are Urged to Contact BFA Law about Upcoming Legal Deadline",
+"description": "MongoDB investors that suffered losses in their investment are encouraged to contact BFA Law before the September 9, 2024 Court deadline.......",
+"url": "https://www.globenewswire.com/news-release/2024/07/13/2912680/0/en/MDB-INVESTOR-NOTICE-MongoDB-Inc-Nasdaq-MDB-Shareholders-that-Incurred-Losses-are-Urged-to-Contact-BFA-Law-about-Upcoming-Legal-Deadline.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+"publishedAt": "2024-07-13T10:52:00Z",
+"content": "NEW YORK, July 13, 2024 (GLOBE NEWSWIRE) -- Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces a lawsuit has been filed against MongoDB, Inc. (MongoDB or the Company) and certain of… [+3552 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Bleichmar Fonti & Auld",
+"title": "ELANCO INVESTOR NOTICE: Elanco (NYSE:ELAN) Shareholders that Incurred Losses are Urged to Contact BFA Law about Investigation into the Company for Securities Fraud",
+"description": "Elanco investors that suffered losses in their investment are encouraged to contact BFA Law about their rights.......",
+"url": "https://www.globenewswire.com/news-release/2024/07/13/2912679/0/en/ELANCO-INVESTOR-NOTICE-Elanco-NYSE-ELAN-Shareholders-that-Incurred-Losses-are-Urged-to-Contact-BFA-Law-about-Investigation-into-the-Company-for-Securities-Fraud.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+"publishedAt": "2024-07-13T10:49:00Z",
+"content": "NEW YORK, July 13, 2024 (GLOBE NEWSWIRE) -- Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces an investigation into Elanco Animal Health Incorporated (NYSE:ELAN) for potential viol… [+2827 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Bleichmar Fonti & Auld",
+"title": "GL INVESTOR NOTICE: Long-term Shareholders of Globe Life Inc. (NYSE:GL) are Notified to Contact BFA Law about Ongoing Investigation into the Company",
+"description": "Globe Life Shareholders are encouraged to contact BFA Law about its investigation into the Board for breaches of fiduciary duties.......",
+"url": "https://www.globenewswire.com/news-release/2024/07/13/2912678/0/en/GL-INVESTOR-NOTICE-Long-term-Shareholders-of-Globe-Life-Inc-NYSE-GL-are-Notified-to-Contact-BFA-Law-about-Ongoing-Investigation-into-the-Company.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+"publishedAt": "2024-07-13T10:48:00Z",
+"content": "NEW YORK, July 13, 2024 (GLOBE NEWSWIRE) -- Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces an investigation into Globe Life Inc. (NYSE:GL) and its directors and certain senior e… [+3173 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Bleichmar Fonti & Auld",
+"title": "SALESFORCE INVESTOR NOTICE: Salesforce, Inc. (NYSE:CRM) Shareholders that Incurred Losses are Urged to Contact BFA Law about Securities Fraud Investigation",
+"description": "Salesforce, Inc. investors that suffered losses in their investment are encouraged to contact BFA Law about their rights.......",
+"url": "https://www.globenewswire.com/news-release/2024/07/13/2912676/0/en/SALESFORCE-INVESTOR-NOTICE-Salesforce-Inc-NYSE-CRM-Shareholders-that-Incurred-Losses-are-Urged-to-Contact-BFA-Law-about-Securities-Fraud-Investigation.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+"publishedAt": "2024-07-13T10:46:00Z",
+"content": "NEW YORK, July 13, 2024 (GLOBE NEWSWIRE) -- Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces an investigation into Salesforce, Inc. (NYSE:CRM) for potential violations of the fede… [+2342 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Bleichmar Fonti & Auld",
+"title": "CAE INVESTOR NOTICE: CAE, Inc. (NYSE:CAE) Shareholders that Incurred Losses are Urged to Contact BFA Law about Investigation into the Company for Securities Fraud",
+"description": "CAE, Inc. investors that suffered losses in their investment are encouraged to contact BFA Law about their rights.......",
+"url": "https://www.globenewswire.com/news-release/2024/07/13/2912675/0/en/CAE-INVESTOR-NOTICE-CAE-Inc-NYSE-CAE-Shareholders-that-Incurred-Losses-are-Urged-to-Contact-BFA-Law-about-Investigation-into-the-Company-for-Securities-Fraud.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+"publishedAt": "2024-07-13T10:44:00Z",
+"content": "NEW YORK, July 13, 2024 (GLOBE NEWSWIRE) -- Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces an investigation into CAE, Inc. (NYSE:CAE) for potential violations of the federal sec… [+2319 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "ETF Daily News"
+},
+"author": "MarketBeat News",
+"title": "Tesla (NASDAQ:TSLA) Lowered to “Sell” at UBS Group",
+"description": "UBS Group cut shares of Tesla (NASDAQ:TSLA – Free Report) from a neutral rating to a sell rating in a research report released on Friday morning, Marketbeat Ratings reports. The brokerage currently has $197.00 price target on the electric vehicle producer’s s…",
+"url": "https://www.etfdailynews.com/2024/07/13/tesla-nasdaqtsla-lowered-to-sell-at-ubs-group/",
+"urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/tesla-inc-logo.png?v=20221020135629&w=240&h=240&zc=2",
+"publishedAt": "2024-07-13T10:40:41Z",
+"content": "UBS Group cut shares of Tesla (NASDAQ:TSLA – Free Report) from a neutral rating to a sell rating in a research report released on Friday morning, Marketbeat Ratings reports. The brokerage currently h… [+5958 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Bleichmar Fonti & Auld",
+"title": "UIPATH INVESTOR NOTICE: UiPath, Inc. (NYSE:PATH) Shareholders that Incurred Losses are Urged to Contact BFA Law about Upcoming Securities Fraud Legal Deadline",
+"description": "UiPath, Inc. investors that suffered losses in their investment are encouraged to contact BFA Law before August 19, 2024 Court deadline.......",
+"url": "https://www.globenewswire.com/news-release/2024/07/13/2912674/0/en/UIPATH-INVESTOR-NOTICE-UiPath-Inc-NYSE-PATH-Shareholders-that-Incurred-Losses-are-Urged-to-Contact-BFA-Law-about-Upcoming-Securities-Fraud-Legal-Deadline.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+"publishedAt": "2024-07-13T10:37:00Z",
+"content": "NEW YORK, July 13, 2024 (GLOBE NEWSWIRE) -- Leading securities law firm Bleichmar Fonti &amp; Auld LLP announces it has filed a lawsuit against UiPath, Inc. (UiPath or the Company) (NYSE:PATH) and ce… [+4139 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Bleichmar Fonti & Auld",
+"title": "RCM INVESTOR NOTICE: R1 RCM Inc. (NASDAQ:RCM) Shareholders are Notified to Contact BFA Law about Investigation into the $13.25 Per Share Offer",
+"description": "R1 RCM Shareholders are encouraged to contact BFA Law about their rights relating to the upcoming merger.......",
+"url": "https://www.globenewswire.com/news-release/2024/07/13/2912673/0/en/RCM-INVESTOR-NOTICE-R1-RCM-Inc-NASDAQ-RCM-Shareholders-are-Notified-to-Contact-BFA-Law-about-Investigation-into-the-13-25-Per-Share-Offer.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+"publishedAt": "2024-07-13T10:09:00Z",
+"content": "NEW YORK, July 13, 2024 (GLOBE NEWSWIRE) -- Top law firm Bleichmar Fonti &amp; Auld LLP is investigating the R1 RCM Inc. (NASDAQ:RCM) acquisition by New Mountain Capital for $13.25 per share.\r\nIf you… [+2590 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Ethan Wolff-Mann",
+"title": "Tesla's valuation is turning heads: Chart of the Week",
+"description": "Tesla may not be up much this year, but the company's valuation is trading exceptionally high compared to what it is expected to earn — compared to both its ...",
+"url": "https://finance.yahoo.com/news/teslas-valuation-is-turning-heads-chart-of-the-week-100642187.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/nb6NUGv7H2_MGbHAUPC06g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ-/https://s.yimg.com/os/creatr-images/2019-11/671a6f10-0dec-11ea-be9a-fddd1302b77b",
+"publishedAt": "2024-07-13T10:06:42Z",
+"content": "This is The Takeaway from today's Morning Brief, which you can sign up to receive in your inbox every morning along with:\r\n<ul><li>The chart of the day\r\n</li><li>What we're watching\r\n</li><li>What we… [+3074 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Bleichmar Fonti & Auld",
+"title": "PARA INVESTOR NOTICE: Paramount Global (Nasdaq:PARA) Shareholders are Notified to Contact BFA Law about Investigation into the Company’s Acquisition Price",
+"description": "Paramount Global Shareholders are encouraged to contact BFA Law about their rights relating to the upcoming merger.......",
+"url": "https://www.globenewswire.com/news-release/2024/07/13/2912672/0/en/PARA-INVESTOR-NOTICE-Paramount-Global-Nasdaq-PARA-Shareholders-are-Notified-to-Contact-BFA-Law-about-Investigation-into-the-Company-s-Acquisition-Price.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+"publishedAt": "2024-07-13T10:04:00Z",
+"content": "NEW YORK, July 13, 2024 (GLOBE NEWSWIRE) -- Top law firm Bleichmar Fonti &amp; Auld LLP is investigating whether the Paramount Global (Nasdaq:PARA) merger transaction is fair to minority shareholders… [+2772 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "businessinsider.com",
+"title": "Elon Musk seems to have built a 'mega rave cave' at Tesla's Berlin gigafactory",
+"description": "Tesla's German factory is on the outskirts of Berlin.\nSean Gallup/Getty Images\nTesla appears to have opened a nightclub at its Berlin Gigafactory.\nElon Musk first floated the idea of a \"mega rave cave\" at the factory in a 2020 social media poll.\nBerliners hav…",
+"url": "https://biztoc.com/x/1f3d085417341fd1",
+"urlToImage": "https://biztoc.com/cdn/1f3d085417341fd1_s.webp",
+"publishedAt": "2024-07-13T10:03:18Z",
+"content": "Tesla's German factory is on the outskirts of Berlin.Sean Gallup/Getty ImagesTesla appears to have opened a nightclub at its Berlin Gigafactory.Elon Musk first floated the idea of a \"mega rave cave\" … [+138 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Bleichmar Fonti & Auld",
+"title": "TERADATA INVESTOR NOTICE: Teradata Corp. (NYSE:TDC) Shareholders that Incurred Losses are Urged to Contact BFA Law about Upcoming Legal Deadline",
+"description": "Teradata Corp. investors that suffered losses in their investment are encouraged to contact BFA Law before the August 13, 2024 Court deadline.......",
+"url": "https://www.globenewswire.com/news-release/2024/07/13/2912671/0/en/TERADATA-INVESTOR-NOTICE-Teradata-Corp-NYSE-TDC-Shareholders-that-Incurred-Losses-are-Urged-to-Contact-BFA-Law-about-Upcoming-Legal-Deadline.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+"publishedAt": "2024-07-13T10:03:00Z",
+"content": "NEW YORK, July 13, 2024 (GLOBE NEWSWIRE) -- Top law firm Bleichmar Fonti &amp; Auld LLP announces the upcoming August 13, 2024 deadline in the Teradata Corp. (NYSE:TDC) securities class action lawsui… [+2984 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "GlobeNewswire"
+},
+"author": "Bleichmar Fonti & Auld",
+"title": "RPD INVESTOR NOTICE: Rapid7, Inc. (Nasdaq:RPD) Shareholders are Notified to Contact BFA Law about Investigation into the Company’s Acquisition Price",
+"description": "Rapid7 Shareholders are encouraged to contact BFA Law about its investigation into potential claims for breach of fiduciary duty against Rapid7, Inc.......",
+"url": "https://www.globenewswire.com/news-release/2024/07/13/2912670/0/en/RPD-INVESTOR-NOTICE-Rapid7-Inc-Nasdaq-RPD-Shareholders-are-Notified-to-Contact-BFA-Law-about-Investigation-into-the-Company-s-Acquisition-Price.html",
+"urlToImage": "https://ml.globenewswire.com/Resource/Download/44a256cf-d470-4d8a-af6b-dbb1b5bbb11e",
+"publishedAt": "2024-07-13T10:01:00Z",
+"content": "NEW YORK, July 13, 2024 (GLOBE NEWSWIRE) -- Top law firm Bleichmar Fonti &amp; Auld LLP is investigating the potential acquisition of Rapid7, Inc. (Nasdaq:RPD)\r\nIf you are a shareholder of Rapid7, yo… [+1830 chars]"
+},
+{
+"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Beatrice Nolan",
+"title": "Elon Musk seems to have built a 'mega rave cave' at Tesla's Berlin gigafactory",
+"description": "Tesla's Berlin gigafactory appears to have opened its own nightclub, according to a video posted online by an executive from Elon Musk's EV maker.",
+"url": "https://www.businessinsider.com/tesla-elon-musk-rave-cave-nightclub-berlin-gigafactory-2024-7",
+"urlToImage": "https://i.insider.com/66914a3d8893442a5156189c?width=1200&format=jpeg",
+"publishedAt": "2024-07-13T09:57:02Z",
+"content": "Tesla's German factory is on the outskirts of Berlin.Sean Gallup/Getty Images\r\n<ul><li>Tesla appears to have opened a nightclub at its Berlin Gigafactory.</li><li>Elon Musk first floated the idea of … [+2106 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "businessinsider.com",
+"title": "This Tesla YouTuber had 2 broken Cybertrucks, but still calls it his 'dream car'",
+"description": "YouTuber Lamar MK thought he'd found his dream car when he bought a Cybertruck.\nLamar MK\nYouTuber Lamar MK was barely able to drive his Cybertruck because of a host of glitches.\nHe got Tesla to replace it with a new one, which also broke within weeks.\nDespite…",
+"url": "https://biztoc.com/x/f97d0f7ee3ef8424",
+"urlToImage": "https://biztoc.com/cdn/799/og.png",
+"publishedAt": "2024-07-13T09:52:29Z",
+"content": "YouTuber Lamar MK thought he'd found his dream car when he bought a Cybertruck.Lamar MKYouTuber Lamar MK was barely able to drive his Cybertruck because of a host of glitches.He got Tesla to replace … [+135 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Tistory.com"
+},
+"author": "T.B",
+"title": "김건희 게이트(Rolex Gate) 13 (feat. 윤석열 미국 대선 개입)",
+"description": "A grand jury indicted Alec Baldwin on Friday on an involuntary manslaughter charge in a 2021 fatal shooting during a rehearsal on a movie set in New Mexico, reviving a dormant case against the actor (via AP) https://t.co/1FMfG2HShW— Bloomberg (@business) Janu…",
+"url": "https://ryueyes11.tistory.com/510798",
+"urlToImage": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbAV60R%2FbtsIzWT0wRp%2FMZvDcOnijEUIzgA60mNhKK%2Fimg.jpg",
+"publishedAt": "2024-07-13T09:28:28Z",
+"content": "A grand jury indicted Alec Baldwin on Friday on an involuntary manslaughter charge in a 2021 fatal shooting during a rehearsal on a movie set in New Mexico, reviving a dormant case against the actor … [+10975 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ozbargain.com.au"
+},
+"author": "turkz1",
+"title": "Tesla 8.8” Instrument Cluster Carplay HUD with free front camera $285.99 @ Satonic Autoparts",
+"description": "Cracking deal on a carplay speedo / heads up display with front parking camera included. Wireless Carplay and Android Auto included with 2 mounting options either via dash trim or steering trim. This screen is the latest aftermarket display available and has …",
+"url": "https://www.ozbargain.com.au/node/856077",
+"urlToImage": "https://files.ozbargain.com.au/n/77/856077x.jpg?h=109a72ed",
+"publishedAt": "2024-07-13T09:24:15Z",
+"content": "All trademarks are owned by their respective owners.OzBargain is an independent community website which has no association with nor endorsement by the respective trademark owners.\r\nCopyright © 2006-2… [+32 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Quartz India"
+},
+"author": "Quartz Staff",
+"title": "Ammo vending machines, the 'flight from hell,' summer camp for billionaires: The week's most popular stories",
+"description": "A company is rolling out ammo vending machines in grocery stores across the U.S., with six already in operation. Read more...",
+"url": "https://qz.com/ammunition-vending-machines-google-chatgpt-1851589644",
+"urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1ae5aa97e07a86ccc42ae4e822adb6ad.jpg",
+"publishedAt": "2024-07-13T09:00:00Z",
+"content": "It wasnt too long ago that there were only a few electric vehicles on the market. Considering how much has happened in the meantime, can you believe the Tesla Model S was only introduced twelve years… [+303 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "LADbible"
+},
+"author": "LADbible",
+"title": "How using 'suicide pod' could land you in prison as first person set to use controversial device",
+"description": "Trying to use the 'suicide pod' method might land you in a heap of trouble",
+"url": "https://www.ladbible.com/news/health/switzerland-suicide-pod-prison-time-082461-20240713",
+"urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/bltbaede6378cd83ba7/66923a2ac0a42b3dc278a1ac/suicide-pod-prison-UK-how-works.png",
+"publishedAt": "2024-07-13T08:58:34Z",
+"content": "Warning: This article contains discussion of suicide which some readers may find distressing.\r\nA Swiss official has warned against the use of suicide pods, following news that the first person is set… [+3437 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "aol.com",
+"title": "Tesla's Resurgence Is Great News for These 3 Growth Stocks",
+"description": "With Tesla stock up nearly 40% over the last month and the company releasing better-than-expected car-delivery data in the second quarter, it's time to start thinking that the bottom might be in for the electric vehicle (EV) market. If so, then investors shou…",
+"url": "https://biztoc.com/x/0fc55d62e244e4f9",
+"urlToImage": "https://biztoc.com/cdn/0fc55d62e244e4f9_s.webp",
+"publishedAt": "2024-07-13T08:03:05Z",
+"content": "With Tesla stock up nearly 40% over the last month and the company releasing better-than-expected car-delivery data in the second quarter, it's time to start thinking that the bottom might be in for … [+133 chars]"
+},
+{
+"source": {
+"id": "fox-news",
+"name": "Fox News"
+},
+"author": "Tracy Wright",
+"title": "Who is Alec Baldwin’s lawyer Alex Spiro: Harvard legal eagle who got 'Rust' star's case dismissed",
+"description": "Alec Baldwin's \"Rust\" lawyer, Alex Spiro, has represented a number of celebrity clients in court including Elon Musk, Jay-Z, Megan Thee Stallion and Mick Jagger.",
+"url": "https://www.foxnews.com/entertainment/who-alec-baldwin-lawyer-alex-spiro-harvard-legal-eagle-who-got-rust-stars-case-dismissed",
+"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/alex-spiro.jpg",
+"publishedAt": "2024-07-13T08:00:10Z",
+"content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+5255 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Acecomments.mu.nu"
+},
+"author": "Pixy Misa",
+"title": "Daily Tech News 13 July 2024",
+"description": "Top Story That's going to leave a mark: Call and text records for the past six months for almost all AT&T customers have been stolen in slow-motion train wreck that is the Snowflake breach. (Tech Crunch) Snowflake was an online...",
+"url": "https://acecomments.mu.nu/?post=410561",
+"urlToImage": null,
+"publishedAt": "2024-07-13T08:00:00Z",
+"content": "<li>Meta has dropped the special restrictions it had placed on Donald Trump's Facebook and Instagram accounts. (The Verge)You can enjoy the screaming in the comments there, if you like.\r\n</li><li>Emm… [+6549 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "marketwatch.com",
+"title": "Consumer sentiment falls to 8-month low on frustration with inflation",
+"description": "Consumer sentiment falls to 8-month low on frustration with inflation MarketWatch\nConsumer sentiment falls, Biden's NATO missteps, Tesla delay: Catalysts Yahoo Finance\nUS consumer confidence worsens further in July Forex Factory\nConsumer sentiment progress pe…",
+"url": "https://biztoc.com/x/0bcc7cea1b9f0c58",
+"urlToImage": "https://biztoc.com/cdn/799/og.png",
+"publishedAt": "2024-07-13T07:08:11Z",
+"content": "Consumer sentiment falls to 8-month low on frustration with inflation MarketWatchConsumer sentiment falls, Biden's NATO missteps, Tesla delay: Catalysts Yahoo FinanceUS consumer confidence worsens fu… [+139 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "SoyaCincau.com"
+},
+"author": "Alexander Wong",
+"title": "Tesla V4 Supercharger opening soon at Gurney Plaza Penang",
+"description": "Tesla owners heading to Penang island can soon enjoy fast and seamless charging at an upcoming Tesla Supercharger location in Georgetown. Tesla Malaysia has announced that its first V4 Supercharging station in Penang is set to open soon at Gurney Plaza. The V…",
+"url": "https://soyacincau.com/2024/07/13/tesla-v4-supercharger-penang-gurney-plaza/",
+"urlToImage": "https://soyacincau.com/wp-content/uploads/2024/05/240502-tesla-supercharger-v4-malaysia-ioi-city-mall-02.jpg",
+"publishedAt": "2024-07-13T05:45:58Z",
+"content": "Tesla owners heading to Penang island can soon enjoy fast and seamless charging at an upcoming Tesla Supercharger location in Georgetown. Tesla Malaysia has announced that its first V4 Supercharging … [+1791 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Bangkok Post"
+},
+"author": "Bloomberg News",
+"title": "Musk donates to Trump, tapping fortune to swing 2024 race",
+"description": "NEW YORK - Billionaire Elon Musk has donated to a super political action committee working to elect Donald Trump to the White House, a major gambit by the world's richest person to make his imprint on the political landscape of the United States.",
+"url": "https://www.bangkokpost.com/world/2828543/musk-donates-to-trump-tapping-fortune-to-swing-2024-race",
+"urlToImage": "https://static.bangkokpost.com/media/content/20240713/c1_2828543_700.jpg",
+"publishedAt": "2024-07-13T05:12:00Z",
+"content": "NEW YORK - Billionaire Elon Musk has donated to a super political action committee working to elect Donald Trump to the White House, a major gambit by the world's richest person to make his imprint o… [+3865 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "ETF Daily News"
+},
+"author": "MarketBeat News",
+"title": "Tesla (NASDAQ:TSLA) Trading Up 1.5% Following Analyst Upgrade",
+"description": "Shares of Tesla, Inc. (NASDAQ:TSLA – Get Free Report) traded up 1.5% during trading on Thursday after Citigroup raised their price target on the stock from $182.00 to $274.00. Citigroup currently has a neutral rating on the stock. Tesla traded as high as $271…",
+"url": "https://www.etfdailynews.com/2024/07/13/tesla-nasdaqtsla-trading-up-1-5-following-analyst-upgrade/",
+"urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/tesla-inc-logo-1200x675.png?v=20221020135629&w=240&h=240&zc=2",
+"publishedAt": "2024-07-13T05:06:41Z",
+"content": "Shares of Tesla, Inc. (NASDAQ:TSLA – Get Free Report) traded up 1.5% during trading on Thursday after Citigroup raised their price target on the stock from $182.00 to $274.00. Citigroup currently has… [+5998 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "Bloomberg",
+"title": "Wall Street’s broadening trade pressures index-tracking billions",
+"description": "Such a broadening in the winners’ list has been sought for years by market skeptics lamenting an equity melt-up whose momentum has been generated by a tiny cohort of asset-light firms. But it’s a less obvious blessing in the short term for passively managed i…",
+"url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-streets-broadening-trade-pressures-index-tracking-billions/articleshow/111704202.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-111704187,width-1200,height-630,imgsize-231256,overlay-etmarkets/photo.jpg",
+"publishedAt": "2024-07-13T04:01:43Z",
+"content": "A long-coveted broadening of the great stock rally would be good news for a slew of active managers and macro bulls. Yet for investors whove been lavishing billions of dollars on index-tracking vehic… [+5171 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Electrek"
+},
+"author": "Jameson Dow",
+"title": "Tesla starts selling 30-50 miles of extra range if you have a recent Model Y RWD",
+"description": "Tesla has started offering an “energy boost” software unlock to recent buyers of the Model Y RWD, allowing them to unlock more battery capacity – for a price.\n\n\n\n more…",
+"url": "http://electrek.co/2024/07/12/tesla-starts-selling-30-50-miles-of-extra-range-if-you-have-a-recent-model-y-rwd/",
+"urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/07/Screenshot-2024-07-12-at-8.48.32 PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2024-07-13T03:49:41Z",
+"content": "Tesla has started offering an “energy boost” software unlock to recent buyers of the Model Y RWD, allowing them to unlock more battery capacity for a price.\r\nThe Model Y RWD has been through lots of … [+3431 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "futurism.com",
+"title": "Tesla Stock Slaughtered After Its August \"Robotaxi\" Event Falls Apart",
+"description": "What's Tesla hiding?\nReverse Hockey Stick\nTesla's shares plummeted after Bloomberg reported that the company was pushing back its much-hyped \"robotaxi\" event from August 8 to no sooner than October.\nShortly after the Elon Musk-led company's Q1 earnings fell f…",
+"url": "https://biztoc.com/x/83feb8f129a5d639",
+"urlToImage": "https://biztoc.com/cdn/799/og.png",
+"publishedAt": "2024-07-13T03:39:35Z",
+"content": "What's Tesla hiding?Reverse Hockey StickTesla's shares plummeted after Bloomberg reported that the company was pushing back its much-hyped \"robotaxi\" event from August 8 to no sooner than October.Sho… [+130 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "Reuters",
+"title": "Wall Street closes higher on bets for Fed rate cut",
+"description": "Wall Street closed higher on Friday with the S&P 500 and Dow Jones hitting intraday record highs, driven by expectations of a Federal Reserve rate cut in September. Major tech stocks like Apple and Nvidia rebounded, while big banks reported mixed results, cau…",
+"url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-closes-higher-on-bets-for-fed-rate-cut/articleshow/111703867.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-111703881,width-1200,height-630,imgsize-231704,overlay-etmarkets/photo.jpg",
+"publishedAt": "2024-07-13T03:39:34Z",
+"content": "Wall Street closed higher on Friday, with the S&amp;P 500 and Dow Jones Industrial Average hitting intraday record highs, on bets that the U.S. Federal Reserve will cut interest rates in September, w… [+2988 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Freerepublic.com"
+},
+"author": "Reuters via US News and World Report",
+"title": "Elon Musk Donates to Group Working to Elect Trump, Bloomberg Reports",
+"description": "WASHINGTON (Reuters) -Billionaire Elon Musk, who has been ramping up criticism of U.S. President Joe Biden, has donated to a political group working to elect rival presidential candidate Donald Trump, Bloomberg reported on Friday, citing sources. The report d…",
+"url": "https://freerepublic.com/focus/f-news/4250837/posts",
+"urlToImage": null,
+"publishedAt": "2024-07-13T02:47:34Z",
+"content": "Skip to comments.\r\nElon Musk Donates to Group Working to Elect Trump, Bloomberg ReportsReuters via US News and World Report ^\r\n | 07/12/2024\r\nPosted on 07/12/2024 7:47:34 PM PDT by SeekAndFind\r\nWASHI… [+2883 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "thehill.com",
+"title": "Elon Musk donates to pro-Trump super PAC: Report",
+"description": "Technology billionaire Elon Musk donated to a super PAC supporting the reelection efforts of former President Trump, according to reporting from Bloomberg.\nMusk, the CEO of SpaceX and Tesla, gave an undisclosed amount of money to the America PAC, sources clos…",
+"url": "https://biztoc.com/x/867c4a0da6d95de1",
+"urlToImage": "https://biztoc.com/cdn/867c4a0da6d95de1_s.webp",
+"publishedAt": "2024-07-13T02:44:25Z",
+"content": "Technology billionaire Elon Musk donated to a super PAC supporting the reelection efforts of former President Trump, according to reporting from Bloomberg.Musk, the CEO of SpaceX and Tesla, gave an u… [+131 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "New York Post"
+},
+"author": "Victor Nava",
+"title": "Elon Musk donates ‘sizable amount’ to pro-Trump super PAC: report",
+"description": "Musk, 53, donated a “sizeable amount” of money to America PAC, Bloomberg News reported on Friday.",
+"url": "https://nypost.com/2024/07/12/us-news/elon-musk-donates-sizable-amount-to-pro-trump-super-pac-report/",
+"urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/85368034.jpg?quality=75&strip=all&w=1024",
+"publishedAt": "2024-07-13T02:39:15Z",
+"content": "Billionaire Elon Musk has made a contribution to a political group backing former President Donald Trump in the 2024 election, according to a report. \r\nMusk, 53, donated a sizeable amount of money to… [+1987 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Sky.com"
+},
+"author": null,
+"title": "Musk donates 'sizable amount' to Trump-backing political group - reports",
+"description": "Billionaire Elon Musk has donated to a political group working to elect presidential candidate Donald Trump, according to reports.",
+"url": "https://news.sky.com/story/elon-musk-donates-sizable-amount-to-donald-trump-backing-political-group-reports-13177326",
+"urlToImage": "https://e3.365dm.com/24/07/1600x900/skynews-elon-musk-donald-trump_6625251.jpg?20240713032811",
+"publishedAt": "2024-07-13T02:37:00Z",
+"content": "Billionaire Elon Musk has donated to a political group working to elect presidential candidate Donald Trump, according to reports.\r\nAccording to Bloomberg, citing sources, the amount was not known bu… [+2667 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Daily Caller"
+},
+"author": "Hailey Gomez",
+"title": "Elon Musk Reportedly Makes ‘Sizable’ Donation To Pro-Trump Super PAC",
+"description": "Billionaire Elon Musk reportedly made a \"sizable\" donation to a super political action committee helping to elect Trump, according to Bloomberg.",
+"url": "https://dailycaller.com/2024/07/12/elon-musk-reportedly-donates-trump-super-pac/",
+"urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/07/GettyImages-2158243807-scaled-e1720832980922.jpg",
+"publishedAt": "2024-07-13T02:08:20Z",
+"content": "Billionaire Elon Musk reportedly made a “sizable” donation to a super political action committee (PAC) helping to elect former President Donald Trump for the 2024 race, according to sources speaking … [+3435 chars]"
+},
+{
+"source": {
+"id": "the-times-of-india",
+"name": "The Times of India"
+},
+"author": "Reuters",
+"title": "Elon Musk donates to group working to elect Trump",
+"description": "Billionaire Elon Musk, known for his increasing criticism of U.S. President Joe Biden, has made a significant donation to America PAC, a political group supporting rival presidential candidate Donald Trump, Bloomberg reported on Friday, citing sources. The re…",
+"url": "https://economictimes.indiatimes.com/news/international/world-news/elon-musk-donates-to-group-working-to-elect-trump/articleshow/111702667.cms",
+"urlToImage": "https://img.etimg.com/thumb/msid-111702686,width-1200,height-630,imgsize-7060,overlay-economictimes/photo.jpg",
+"publishedAt": "2024-07-13T01:44:29Z",
+"content": "WASHINGTON: Billionaire Elon Musk, who has been ramping up criticism of U.S. President Joe Biden, has donated to a political group working to elect rival presidential candidate Donald Trump, Bloomber… [+2385 chars]"
+}
+]
