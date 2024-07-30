@@ -3,13 +3,13 @@ import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 import { NavLink } from 'react-router-dom';
 import creator from './creator.png'
 const navigation = [
-  { name: 'sports', to: 'sports', current: window.location.pathname==="/sports"?true:false },
-  { name: 'technology', to: 'technology', current: window.location.pathname==="/technology"?true:false },
-  { name: 'science', to: 'science', current: window.location.pathname==="/science"?true:false },
-  { name: 'health', to: 'health', current: window.location.pathname==="/health"?true:false },
-  { name: 'entertainment', to: 'entertainment', current: window.location.pathname==="/entertainment"?true:false },
-  { name: 'general', to: 'general', current: window.location.pathname==="/general"?true:false },
-  { name: 'business', to: 'business', current: window.location.pathname==="/business"?true:false },
+  { name: 'sports', to: '/news/sports', current: window.location.pathname==="/news/sports"?true:false },
+  { name: 'technology', to: '/news/technology', current: window.location.pathname==="/news/technology"?true:false },
+  { name: 'science', to: '/news/science', current: window.location.pathname==="/news/science"?true:false },
+  { name: 'health', to: '/news/health', current: window.location.pathname==="/news/health"?true:false },
+  { name: 'entertainment', to: '/news/entertainment', current: window.location.pathname==="/news/entertainment"?true:false },
+  { name: 'general', to: '/news/general', current: window.location.pathname==="/news/general"?true:false },
+  { name: 'business', to: '/news/business', current: window.location.pathname==="/news/business"?true:false },
 ]
 
 function classNames(...classes) {

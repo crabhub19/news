@@ -56,14 +56,14 @@ function App() {
     <BrowserRouter>
       <NavBar toggleTheme={toggleTheme}/>
       <Routes>
-        <Route path='' element={<NewsContainer key="general" catagory="general"/>}></Route>
-        <Route exact path='general' element={<NewsContainer key="general" catagory="general"/>}></Route>
-        <Route exact path='sports' element={<NewsContainer key="sports" catagory="sports"/>}></Route>
-        <Route exact path='technology' element={<NewsContainer key="technology" catagory="technology"/>}></Route>
-        <Route exact path='business' element={<NewsContainer key="business" catagory="business"/>}></Route>
-        <Route exact path='science' element={<NewsContainer key="science" catagory="science"/>}></Route>
-        <Route exact path='health' element={<NewsContainer key="health" catagory="health"/>}></Route>
-        <Route exact path='entertainment' element={<NewsContainer key="entertainment" catagory="entertainment"/>}></Route>
+        <Route path='/news' element={<NewsContainer key="general" catagory="general"/>}></Route>
+        <Route path='/news/general' element={<NewsContainer key="general" catagory="general"/>}></Route>
+        <Route path='/news/sports' element={<NewsContainer key="sports" catagory="sports"/>}></Route>
+        <Route path='/news/technology' element={<NewsContainer key="technology" catagory="technology"/>}></Route>
+        <Route path='/news/business' element={<NewsContainer key="business" catagory="business"/>}></Route>
+        <Route path='/news/science' element={<NewsContainer key="science" catagory="science"/>}></Route>
+        <Route path='/news/health' element={<NewsContainer key="health" catagory="health"/>}></Route>
+        <Route path='/news/entertainment' element={<NewsContainer key="entertainment" catagory="entertainment"/>}></Route>
       </Routes>
       
     </BrowserRouter>
